@@ -1,0 +1,7 @@
+phonepe\dao\Dao.class
+phonepe\entity\Job.class
+phonepe\entity\Entity.class
+phonepe\JAXRSConfiguration.class
+phonepe\business\JobBusiness.class
+phonepe\dao\JobDao.class
+phonepe\resource\JobResource.class
